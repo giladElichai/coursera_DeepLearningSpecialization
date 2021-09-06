@@ -1,2 +1,2 @@
-# coursera
-courses from coursera 
+# DeepLearningSpecialization
+DeepLearningSpecialization course from coursera 
